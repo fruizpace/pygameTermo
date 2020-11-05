@@ -1,0 +1,1 @@
+Ejercicio con PyGame para hacer un termómetro interactivo.
